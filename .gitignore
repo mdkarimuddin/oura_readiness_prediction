@@ -1,0 +1,29 @@
+# Data
+data/raw/*.csv
+data/processed/*.csv
+
+# Models
+models/*.pkl
+models/*.pt
+models/*.h5
+models/*.json
+
+# Python
+__pycache__/
+*.py[cod]
+venv/
+.Python
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Outputs (keeping some for portfolio)
+outputs/*.zip
+outputs/*.csv
+# outputs/*.png  # Uncomment to exclude all images
+# outputs/*.json  # Uncomment to exclude all JSON
+
+# OS
+.DS_Store
+
