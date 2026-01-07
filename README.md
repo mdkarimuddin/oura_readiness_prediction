@@ -3,6 +3,7 @@
 Advanced predictive modeling for Oura Ring readiness scores using deep learning with attention mechanisms.
 
 ![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![ML](https://img.shields.io/badge/ML-Deep%20Learning%20%7C%20LSTM-orange.svg)
 ![Status](https://img.shields.io/badge/Status-Complete-success.svg)
 
@@ -175,7 +176,7 @@ Postdoctoral Researcher, University of Helsinki
 
 ## 📜 License
 
-MIT License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
