@@ -166,12 +166,12 @@ This project demonstrates:
 
 ## 👤 Author
 
-**Karim Uddin**  
+**Md Karim Uddin, PhD**  
 PhD Veterinary Medicine | MEng Big Data Analytics  
 Postdoctoral Researcher, University of Helsinki
 
 - GitHub: [@mdkarimuddin](https://github.com/mdkarimuddin)
-- LinkedIn: [Karim Uddin](https://linkedin.com/in/karimuddin)
+- LinkedIn: [Md Karim Uddin, PhD](https://www.linkedin.com/in/md-karim-uddin-phd-aa87649a/)
 
 ## 📜 License
 
